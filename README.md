@@ -14,7 +14,7 @@ Each of the seven projects listed below is a complete, deployable business syste
 Completing these projects demonstrates mastery of multi-agent collaboration, advanced memory (RAG), planning, and safety patterns.
 
 
-## The 7 Production AI Agent Projects
+## The 4 Production AI Agent Projects
 
 ### [Project 1] Customer Support Agent
 
@@ -37,27 +37,7 @@ It integrates specialized tool use by calling external financial APIs and uses a
 - reasoning
 - data integration
 
-### [Project 3] RAG Q&A System
-
-**Outcome:** Transform scattered company documents into an intelligent, instant knowledge base.
-
-This system is built for the enterprise to turn thousands of unstructured files (PDFs, internal wikis) into an accurate question answering assistant. It uses retrieval augmented generation (RAG) and vector databases to provide accurate, cited answers to employee questions.
-
-- knowledge retrieval (RAG)
-- memory management
-- vector databases
-
-### [Project 4] Code Reviewer Agent
-
-**Outcome:** Eliminate code review bottlenecks and automatically enforce high code quality standards.
-
-An agent that integrates directly into the software development workflow. It connects to the GitHub API to review pull requests, autonomously checks for style violations and security flaws, and suggests corrections before human review.
-
-- reflection
-- github integration
-- structured critique
-
-### [Project 5] Sales Qualification Agent
+### [Project 3] Sales Qualification Agent
 
 **Outcome:** Automate lead scoring and increase sales representative productivity by four times.
 
@@ -67,7 +47,7 @@ A multi-agent system designed to qualify business leads. It assigns specialist a
 - external APIs
 - planning
 
-### [Project 6] Incident Management Agent (AIOps)
+### [Project 4] Incident Management Agent (AIOps)
 
 **Outcome:** Drastically reduce infrastructure incident response and resolution time.
 
@@ -77,6 +57,31 @@ This high impact system monitors operational health. It uses complex logic and e
 - guardrails
 - exception Handling
 - recovery
+
+
+## There Bonus Projects (Do It Yourself)
+
+
+### [Project 5] RAG Q&A System
+
+**Outcome:** Transform scattered company documents into an intelligent, instant knowledge base.
+
+This system is built for the enterprise to turn thousands of unstructured files (PDFs, internal wikis) into an accurate question answering assistant. It uses retrieval augmented generation (RAG) and vector databases to provide accurate, cited answers to employee questions.
+
+- knowledge retrieval (RAG)
+- memory management
+- vector databases
+
+### [Project 6] Code Reviewer Agent
+
+**Outcome:** Eliminate code review bottlenecks and automatically enforce high code quality standards.
+
+An agent that integrates directly into the software development workflow. It connects to the GitHub API to review pull requests, autonomously checks for style violations and security flaws, and suggests corrections before human review.
+
+- reflection
+- github integration
+- structured critique
+
 
 ### [Project 7] Content Generation Agent
 
